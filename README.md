@@ -1,9 +1,4 @@
-Perfect 👍
-Neeche **GitHub ke liye ek single, clean `README.md` style file** diya hai jisme **Security Headers + HTTP Methods (OPTIONS, TRACE, etc.) sab ek hi jagah add hain**.
-Aap isse **direct GitHub repo me paste** kar sakte ho.
-
 ---
-
 ```md
 # 🔐 Web Security Headers & HTTP Methods Check (Using curl)
 
@@ -164,6 +159,4 @@ Agar chaho to main:
 - 📄 **GitHub Action**
 - 📊 **CSV / Excel output**
 - 🛡️ **OWASP mapping version**
-
-bhi bana deta hoon. Bas bolo 👍
-```
+--
